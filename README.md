@@ -30,6 +30,8 @@ Este es el repositorio de la clase de  la clase de Bioinformatica semestre 2022
 ## ACTIVIDAD
 - En el ejercicio 1, se descargo data de pubmed a travez del comando entrez, para saber el numero de artituculos que estaba asociado a un keyword especifico, ademas se descargo informacion del ejemplo mapscience,para buscar nuevas ciudadades basandose en el documento descargado de ese repositorio.
 - En el ejercicio 2, se uso la data descarga de pubmed para buscar los arituculos asociados a las bacterias y luego guardar ese informacion en un documento txt.
-![Map of Science](https://user-images.githubusercontent.com/104949679/183103906-36b11f3f-1514-47a2-ae3e-07e3aeef1279.png)
 - En el ejercicio 3, se usa la informacion de los archivos map science para generar una figura con respecto a las coordenadas de 5 paises y se guarda el archivo.
 - En el ejercicio 4, se interpretan las ubicaciones de los paises con respecto a las coordenadas generadas
+
+## DIAGRAMA DE PROCESOS DEL MODULO MININGSCIENCE
+![flujoscience](https://user-images.githubusercontent.com/104949679/183106202-94b9bb4a-3c7e-4baa-8873-3aef9d9f7dba.png)
