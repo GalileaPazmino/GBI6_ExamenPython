@@ -1,6 +1,6 @@
 # GBI6_ExamenPython
 # BIOINFORMATICA 2022
-Este es el repositorio de la clase de  la clase de Bioinformatica semestre 2022
+Este es el repositorio del examen de  la clase de Bioinformatica semestre 2022
 
 ## DATOS PERSONALES
 - Galilea Pazmiño
